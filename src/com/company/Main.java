@@ -11,5 +11,6 @@ public class Main {
 	System.out.println(" Привет от Федора");
 	System.out.println(" Измения в Git");
 	System.out.println(" Изменения в новом gite");
+	System.out.println(" Новое добавление");
     }
 }
