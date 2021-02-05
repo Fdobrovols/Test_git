@@ -27,4 +27,8 @@
 
  Команда добавления в файле в локальном репазиторий
 
- 
+git remote add origin https://github.com/Fdobrovols/Test_git.git --  Команда сойденяить локальный и глобальный репазиторий
+git branch -M main -- Создаем основную ветку Master с названием main
+git push -u origin main -- ДОбавляет данные локального репазитория в глобальный
+
+Для просмотра веток пишем команду git branch -v

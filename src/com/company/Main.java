@@ -9,5 +9,6 @@ public class Main {
         System.out.println(i);
     }
 	System.out.println(" Привет от Федора");
+	System.out.println(" Измения в Git");
     }
 }
