@@ -13,5 +13,6 @@ public class Main {
 	System.out.println(" Изменения в новом gite");
 	System.out.println(" Новое добавление");
     System.out.println(" Еще раз новое добавление");
+    System.out.println("Вывод для новой ветки");
     }
 }
